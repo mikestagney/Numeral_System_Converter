@@ -4,7 +4,7 @@ Converts any number in base 1 to 36 into another base from 1 to 36. Can handle f
 
 ## Things learned
 
-Implement an unfamiliar algorithm into working software. I had not converted fractional numbers to other bases.
+Implement an unfamiliar algorithm into working software. I had not converted fractional numbers to other number bases.
 
 ### Details
 
